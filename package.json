@@ -1,0 +1,16 @@
+{
+  "name": "server-podnyat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start1": "node ./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mime-types": "^2.1.35",
+    "mmmagic": "^0.5.3"
+  }
+}
